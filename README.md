@@ -8,6 +8,8 @@ Example:
 # python driller/local_callback.py binary work_dir fuzz_bitmap testcase --ifvls ifvls_path
 
 python driller/local_callback.py
+/MyTestSuite/src/loop2
+/dev/shm/work/loop2
 /dev/shm/work/loop2/sync/fuzzer-master/fuzz_bitmap
 "/dev/shm/work/loop2/sync/fuzzer-master/queue/id:000208,src:000000,op:havoc,rep:128"
 --debug
