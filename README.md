@@ -1,7 +1,7 @@
 ## Backsolver
 
 Backsolver is utilized to address implicit flows in concolic execution.
-It is based on Driller and needs the implicit flow variable information, which could be obtained by [Backsolver_taint](ttps://github.com/sunwithmoon/Backsolver_taint).
+It is based on Driller and needs the implicit flow variable information, which could be obtained by [Backsolver_taint](https://github.com/sunwithmoon/Backsolver_taint).
 
 Example:
 ```shell
